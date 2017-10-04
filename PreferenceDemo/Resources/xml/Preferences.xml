@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+  <EditTextPreference
+      android:key="pref_url"
+      android:title="pref_url"
+      android:summary="This is service url"
+      android:defaultValue="http://www.google.com" />
+</PreferenceScreen>
